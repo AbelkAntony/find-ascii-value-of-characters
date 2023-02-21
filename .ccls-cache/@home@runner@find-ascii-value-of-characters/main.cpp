@@ -11,6 +11,5 @@ int main()
 		cin>>ch;
 		ascii = int(ch);
 		cout<<"ASCII VALUE : "<<ascii;
-		
 	}
 }
